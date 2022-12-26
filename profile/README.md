@@ -1,1 +1,2 @@
-# among us.
+# Hey, we're Planetry.
+More info coming soon...
